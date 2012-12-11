@@ -1,0 +1,11 @@
+#main_header {
+  font-size: 41px;
+  font-family: sans-serif;
+  font-weight: bold;
+  line-height: 24px;
+}
+
+#sub_header {
+  font-size: 30px;
+  font-family: monospace;
+}
