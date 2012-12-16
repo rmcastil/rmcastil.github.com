@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Hello Jekyll
+title: "Posts"
 ---
-
+{{ site.posts }}
