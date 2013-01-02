@@ -1,3 +1,7 @@
+---
+layout: default
+title: Global Day of Coderetreat 2012
+---
 # Global Day of Coderetreat 2012 (Norfolk, VA) - Facilitating a Coderetreat
 
 ## Bootstrap Hero, xTuple and the 757 Creative Space
