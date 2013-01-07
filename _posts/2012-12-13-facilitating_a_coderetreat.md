@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Global Day of Coderetreat 2012
+title: Facilitating a Coderetreat
 ---
-# Global Day of Coderetreat 2012 (Norfolk, VA) - Facilitating a Coderetreat
 
 ## Bootstrap Hero, xTuple and the 757 Creative Space
 My thanks to our food sponsors [xTuple](http://xtuple.com/) and [BootStrap Hero](http://www.bootstraphero.com/) as well as to the [757 Creative Space](http://757creativespace.com/) for letting us host the event in their space. Each of these organizations are filled with awesome people and if you're interested in getting involved in the Hampton Roads area you should check them out.

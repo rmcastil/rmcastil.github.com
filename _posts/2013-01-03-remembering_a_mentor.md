@@ -2,7 +2,6 @@
 layout: default
 title: Remembering a Mentor
 ---
-# Remembering a Mentor
 
 Yesterday I had to say my final goodbye to a mentor. He served as a professor during my time at VCU and I feel deeply saddened that I didn't get to have one last insightful conversation with him.
 
