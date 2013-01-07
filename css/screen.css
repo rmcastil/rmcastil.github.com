@@ -2,6 +2,11 @@ body {
   color: #222;
 }
 
+a#header_link {
+  text-decoration: none;
+  color: inherit;
+}
+
 #main_header {
   font-size: 41px;
   font-family: sans-serif;
