@@ -1,3 +1,7 @@
+body {
+  color: #222;
+}
+
 #main_header {
   font-size: 41px;
   font-family: sans-serif;
@@ -17,4 +21,8 @@
 
 h1 {
   line-height: 1.1;
+}
+
+p {
+  color: #444;
 }
