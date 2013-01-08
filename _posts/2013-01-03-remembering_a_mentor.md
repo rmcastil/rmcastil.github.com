@@ -9,4 +9,4 @@ To honor him I wanted to share my favorite lesson from him: listening deeply. Dr
 
 As developers this 'soft' skill of listening and responding appropriately is often overlooked. We solve problems. This is what we are paid to do and we want to get to a solution right away. But something we often forget is to consider all the aspects of the question or problem.
 
-Do you sometimes misunderstand requirements from a client/manager or bump heads with a colleague concerning their solution? Try taking your time and listening deeply before providing your response. The recipient will more often than not but appreciative of your insightfulness, I know I was.
+Do you sometimes misunderstand requirements from a client/manager or bump heads with a colleague concerning their solution? Try taking your time and listening deeply before providing your response. The recipient will more often than not be appreciative of your insightfulness, I know I was.
