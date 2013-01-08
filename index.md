@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Refactor Studio
+title:
 ---
 <ul>
 {% for post in site.posts %}
