@@ -1,0 +1,1 @@
+Ryan is on a mission to make his fellow developers more awesome. He believes that one of the greatest tragedies in life is when one does not reach their full potential. He recently started the consultancy Challenge Accepted where he works side by side with clients to develop their business model and the necessary software to make them successful.

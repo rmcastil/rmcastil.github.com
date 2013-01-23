@@ -1,0 +1,1 @@
+"Stop saying that something is wrong because it's not what Alan Kay wanted. That's stupid. Alan Kay is just some dude. Stop worshipping." - Gary Bernhardt[https://twitter.com/garybernhardt/status/268148127503101953]

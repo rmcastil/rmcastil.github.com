@@ -1,0 +1,1 @@
+Tensions exist everywhere in software: do I write beatufil code for future me (or others) or do I deliver fast to keep my client happy? How do I focus on creating the most usable thing for my client while keeping it maintainable?
