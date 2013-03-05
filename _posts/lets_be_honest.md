@@ -1,1 +1,3 @@
 "Stop saying that something is wrong because it's not what Alan Kay wanted. That's stupid. Alan Kay is just some dude. Stop worshipping." - Gary Bernhardt[https://twitter.com/garybernhardt/status/268148127503101953]
+
+There is this notion that your code is who you are. In a way its true but I'd argue that your code is who you are at a particular moment of time. Just like a photograph represents a snapshot of who you are so does your code. Were you just learning the language, were you having a bad day, were you only working on a couple hours of sleep: all of these factor in to how your code turns out. It doesn't represent whether you are a good human being or not just where you are at in your journy as a developer with some additional context (ie - mood, fatigue, etc)

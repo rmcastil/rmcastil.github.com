@@ -11,3 +11,7 @@ Another link that describes the software/human communication aspects: http://reg
 ## Hacking Communication: How to get on the same page as your (Manager, Boss, Client, Coworker, or Self)
 
 Have you ever been forced into a corner for an estimate? Looked at git blame and wondered how to resolve the issue with the original author? Or wanted to be considered a 'consultant' instead of another technical cog in your client's business? The common pitfall in these situations is your ability communicate. In this talk we'll take a look at this fundamental skill, hack your brain to look at some of these situations differently and bring you out as a more effective communicator and therefore more awesome developer/human being.
+
+While the following has expanded communication in many ways I'd argue its fundamentally worst
+Email = less context
+Twitter, text = even less context

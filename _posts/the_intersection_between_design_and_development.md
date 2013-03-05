@@ -1,8 +1,8 @@
 http://kaikkonendesign.fi/typography/section/1
 
-
 its all about solving problems
 
+- Need to navigation without using the back button
 - how to make this visible on an iphone versus the web
 - is this text readable
   - what about the line height
