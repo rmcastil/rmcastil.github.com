@@ -15,3 +15,17 @@ Have you ever been forced into a corner for an estimate? Looked at git blame and
 While the following has expanded communication in many ways I'd argue its fundamentally worst
 Email = less context
 Twitter, text = even less context
+
+
+#Discussion with Brian Douglas Smith
+
+Different perceptions have different views of how code works
+
+- testing addressed concerns of different perceptions and groups
+- you have to know your audience
+- establish a common vocabulary
+- good communication takes work
+- features could be like an elevator speach
+- the last thing you want is to cause glazing of the eyes by too much tech speak
+- give praise during morning sessions
+- save counseling for one on one sessions
